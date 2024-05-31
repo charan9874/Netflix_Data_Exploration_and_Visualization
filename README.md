@@ -1,5 +1,5 @@
 # Netflix Data Exploration and Visualization 📊
-![Netflix logo]((https://i.ytimg.com/vi/ZMak63mHq5Y/maxresdefault.jpg))
+![Netflix logo]([https://i.ytimg.com/vi/ZMak63mHq5Y/maxresdefault.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Netflix_logo.svg/1024px-Netflix_logo.svg.png])
 
 Welcome to the Netflix Data Exploration and Visualization project! 🎉 In this repository, we delve into the world of Netflix to uncover valuable insights from their vast library of movies and TV shows. Whether you're a data enthusiast or a Netflix aficionado, this project has something for everyone.
 
