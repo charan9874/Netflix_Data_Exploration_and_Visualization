@@ -1,5 +1,5 @@
 # Netflix Data Exploration and Visualization 📊
-![Netflix logo](https://github.com/santhosh-spark/Business-Case-Netflix--Data-Exploration-and-Visualization/assets/73495628/21f12510-5d3a-46de-9203-355c1b19684c)
+![Netflix logo]((https://github.com/charan9874/Netflix_Data_Exploration_and_Visualization/blob/main/netflix.jpg))
 
 Welcome to the Netflix Data Exploration and Visualization project! 🎉 In this repository, we delve into the world of Netflix to uncover valuable insights from their vast library of movies and TV shows. Whether you're a data enthusiast or a Netflix aficionado, this project has something for everyone.
 
